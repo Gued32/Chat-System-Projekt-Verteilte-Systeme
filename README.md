@@ -98,8 +98,6 @@ Das System demonstriert wesentliche Eigenschaften verteilter Systeme:
 /client   # Implementierung der Chat-Clients
 ```
 
+
 ---
 
-## 🧾 Hinweis
-
-Dieses Projekt erfüllt die Anforderungen des Kurses, indem es zentrale Technologien verteilter Systeme wie Sockets und Threads integriert und eine funktionierende verteilte Anwendung bereitstellt.
