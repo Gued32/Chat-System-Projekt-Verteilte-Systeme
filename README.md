@@ -1,4 +1,4 @@
-# Verteiltes Chat-System – Projekt Verteilte Systeme (Projektbeschreibung)
+# Chat-System – Projekt Verteilte Systeme (Projektbeschreibung)
 
 ## 📌 Projektübersicht
 
