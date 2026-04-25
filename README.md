@@ -1,5 +1,5 @@
 # Verteiltes-Chat-System-Projekt-Verteilte-Systeme
-# Verteiltes Chat-System – Projekt Verteilte Systeme
+# Verteiltes Chat-System – Projekt Verteilte Systeme (Projektbeschreibung)
 
 ## 📌 Projektübersicht
 
