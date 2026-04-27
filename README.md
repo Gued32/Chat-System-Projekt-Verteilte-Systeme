@@ -72,17 +72,6 @@ Das Projekt wird im Rahmen einer Teamarbeit mit 1 Studierende umgesetzt.
 
 ---
 
-## 📊 Bezug zu Verteilten Systemen
-
-Das System demonstriert wesentliche Eigenschaften verteilter Systeme:
-
-* Client-Server-Architektur
-* Nachrichtenbasierte Kommunikation
-* Nebenläufigkeit und parallele Verarbeitung
-* Netzwerkbasierte Interaktion zwischen unabhängigen Prozessen
-
----
-
 ## ▶️ Ausführung
 
 1. Starten des Chat-Servers
