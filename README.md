@@ -68,7 +68,7 @@ Die Anwendung besteht aus folgenden Komponenten:
 
 ## 👥 Team
 
-Das Projekt wird im Rahmen einer Teamarbeit mit 1 Studierende umgesetzt.
+Das Projekt wird mit 1 Studierende umgesetzt.
 
 ---
 
